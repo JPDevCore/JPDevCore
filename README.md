@@ -9,7 +9,6 @@ I'm a **Software Analyst and Developer** passionate about building web applicati
 - 🔧 &nbsp; I enjoy solving problems, designing scalable systems, and collaborating with teams to deliver high-quality software.
 
 ---
-
 <div id="user-content-toc">
   <ul align="left">
     <summary><h2 style="display: inline-block">How to reach me 🤝</h2></summary>
@@ -18,8 +17,8 @@ I'm a **Software Analyst and Developer** passionate about building web applicati
 
 <!--icons and links-->
 <p align="left">
-  <a href="https://www.linkedin.com/in/tu-perfil-linkedin" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-  <a href="mailto:tu-email@gmail.com" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt="gmail" height="50" width="50" /></a>
+  <a href="https://www.linkedin.com/in/juan-pablo-rojas-808756279/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+  <a href="mailto:juanpablor629@gmail.com" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt="gmail" height="50" width="50" /></a>
   <a href="https://github.com/JPDevCore" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg" alt="github" height="50" width="50" /></a>
 </p>
 
@@ -47,37 +46,29 @@ I'm a **Software Analyst and Developer** passionate about building web applicati
 
 ---
 
-### 🧩 Problem Solving
-
-<p align="left">
-  <a href="https://leetcode.com/tu-perfil-leetcode/" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/ccea8959-b23e-4619-893d-18f85870b45e" alt="leetcode" height="50" width="50" /></a>
-  <a href="https://www.hackerrank.com/tu-perfil-hackerrank" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/b0b5cfe3-3565-41d1-a1f5-6a3f88f4c42f" alt="hackerrank" height="50" width="50" /></a>
-</p>
-
----
 
 ### 🚀 Projects
 
 Here are some of the projects I've worked on:
 
-- **[Project 1](link-to-project-1):** A web application built with React and Node.js for managing tasks.
-- **[Project 2](link-to-project-2):** A database management system using SQL Server and SQLite.
-- **[Project 3](link-to-project-3):** A responsive website using HTML, CSS, and JavaScript.
+- **[Project 1]():** A web application built with React and Node.js for managing tasks.
+- **[Project 2]():** A database management system using SQL Server and SQLite.
+- **[Project 3]():** A responsive website using HTML, CSS, and JavaScript.
 
 ---
 
 ### 📚 Education
 
 - **Software Analysis and Development**  
-  [Your University or Institution]  
-  Graduation Year: [Year]
+    industrial biotechnology center
+  Graduation Year: 2022
 
 ---
 
 ### 💼 Experience
 
 - **Software Developer**  
-  [Company Name] | [Start Date] - [End Date]  
+  [ingenio Providencia ] | October 3, 2022 - April 3 2023
   - Developed and maintained web applications using React and Node.js.
   - Designed and optimized SQL databases for improved performance.
   - Collaborated with cross-functional teams to deliver projects on time.
